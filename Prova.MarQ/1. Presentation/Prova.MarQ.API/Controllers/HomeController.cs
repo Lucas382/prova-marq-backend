@@ -11,5 +11,6 @@ namespace Prova.MarQ.API.Controllers
         {
             return Ok("Boa prova! :)");
         }
+
     }
 }

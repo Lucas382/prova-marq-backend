@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business", "2. Business"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Infrastructure", "3. Infrastructure", "{EC8866AB-2D21-4F9A-9323-2CD92F26B425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.MarQ.Domain", "2. Business\Prova.MarQ.Domain\Prova.MarQ.Domain.csproj", "{BCE4CD6C-2F11-4644-9EE8-3A87D24C87BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.MarQ.Domain", "2. Business\Prova.MarQ.Domain\Prova.MarQ.Domain.csproj", "{BCE4CD6C-2F11-4644-9EE8-3A87D24C87BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.MarQ.Infra", "3. Infrastructure\Prova.MarQ.Infra\Prova.MarQ.Infra.csproj", "{BC63C732-60D2-4922-BC4B-7CDF7B1E5D11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.MarQ.Infra", "3. Infrastructure\Prova.MarQ.Infra\Prova.MarQ.Infra.csproj", "{BC63C732-60D2-4922-BC4B-7CDF7B1E5D11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova.MarQ.API", "1. Presentation\Prova.MarQ.API\Prova.MarQ.API.csproj", "{7BC7ED65-F98F-48F5-9D9B-3155B06BF86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prova.MarQ.API", "1. Presentation\Prova.MarQ.API\Prova.MarQ.API.csproj", "{7BC7ED65-F98F-48F5-9D9B-3155B06BF86B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
